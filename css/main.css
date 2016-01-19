@@ -1,0 +1,48 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+hr{
+	size:5;
+	width: 75px;
+	color: #030303;
+}
+div{
+
+	
+}
+
+.profile{
+	
+	position: absolute;
+	left:23%;
+	right: 23%;
+	bottom: 10%;
+	top: 20%;
+
+}
+.uno{
+	display: inline-block;
+}
+img{
+	position: relative;
+	}
+.primer{
+	position: absolute;
+	
+	color: blue;
+
+	
+}
+
+p{
+	color: white;
+	
+}
